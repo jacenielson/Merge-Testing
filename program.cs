@@ -1,1 +1,1 @@
-console.WriteLine("Hello World");
+console.WriteLine("Goodbye Cruel World");
